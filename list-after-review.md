@@ -40,26 +40,26 @@ https://www.django-rest-framework.org/api-guide/permissions/#isauthenticatedorre
 
 ### []serializers.py
 
-[] <span style="color:red"> Станислав</span>
+[v] <span style="color:red"> Станислав</span>
 
 ![alt text](image-7.png)
 
-[] <span style="color:red"> Станислав</span>
+[v] <span style="color:red"> Станислав</span>
 
 ![alt text](image-8.png)
 
 https://djangodoc.ru/3.2/ref/models/querysets/#annotate
 
 
-[] <span style="color:red"> Станислав</span>
+[v] <span style="color:red"> Станислав</span>
 
 ![alt text](image-9.png)
 
-[] <span style="color:red"> Станислав</span>
+[v] <span style="color:red"> Станислав</span>
 
 ![alt text](image-10.png)
 
-[] <span style="color:red"> Станислав</span>
+[v] <span style="color:red"> Станислав</span>
 
 ![alt text](image-11.png)
 
@@ -91,23 +91,23 @@ https://djangodoc.ru/3.2/ref/models/querysets/#annotate
 
 ### []views.py
 
-[] <span style="color:red"> Станислав</span>
+[v] <span style="color:red"> Станислав</span>
 
 ![alt text](image-18.png)
 
-[] <span style="color:red"> Станислав</span>
+[v] <span style="color:red"> Станислав</span>
 
 ![alt text](image-19.png)
 
-[] <span style="color:red"> Станислав</span>
+[v] <span style="color:red"> Станислав</span>
 
 ![alt text](image-20.png)
 
-[] <span style="color:red"> Станислав</span>
+[v] <span style="color:red"> Станислав</span>
 
 ![alt text](image-21.png)
 
-[] <span style="color:red"> Станислав</span>
+[v] <span style="color:red"> Станислав</span>
 
 ![alt text](image-22.png)
 
@@ -116,19 +116,19 @@ https://www.django-rest-framework.org/api-guide/filtering/#orderingfilter
 
 
 
-[] <span style="color:red"> Станислав</span>
+[v] <span style="color:red"> Станислав</span>
 
 ![alt text](image-23.png)
 
-[] <span style="color:red"> Станислав</span>
+[v] <span style="color:red"> Станислав</span>
 
 ![alt text](image-24.png)
 
-[] <span style="color:red"> Станислав</span>
+[v] <span style="color:red"> Станислав</span>
 
 ![alt text](image-25.png)
 
-[] <span style="color:red"> Станислав</span>
+[v] <span style="color:red"> Станислав</span>
 
 ![alt text](image-26.png)
 
@@ -392,15 +392,15 @@ https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding
 
 ## []import_csv.py
 
-[] <span style="color:red"> Станислав</span>
+[v] <span style="color:red"> Станислав</span>
 
 ![alt text](image-77.png)
 
-[] <span style="color:red"> Станислав</span>
+[v] <span style="color:red"> Станислав</span>
 
 ![alt text](image-78.png)
 
-[] <span style="color:red"> Станислав</span>
+[v] <span style="color:red"> Станислав</span>
 
 ![alt text](image-79.png)
 
